@@ -9,3 +9,4 @@ who were COVID positive and intubated had a higher possibilty of death that the
 patients who were now COVID positive.
 This work is depicted in the Fatality of Intubation.
  Intubation requirement prediction was done using 5 ML classifiers.
+ Dataset used for this work : https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset
